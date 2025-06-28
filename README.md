@@ -14,6 +14,10 @@ Copyright © 2025 Cong Le. All Rights Reserved.
 
 ---
 
+![Demo_String_Vibration](./ASSETS/Demo_String_Vibration.gif)
+
+---
+
 <div align="center">
 	
 ⚠️🏗️🚧🦺🧱🪵🪨🪚🛠️👷
